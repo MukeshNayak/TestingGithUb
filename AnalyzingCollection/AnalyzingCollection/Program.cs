@@ -9,7 +9,7 @@ namespace AnalyzingCollection
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mukesh Nayak");
+            Console.WriteLine("Mukesh kumar Nayak");
         }
     }
 }
